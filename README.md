@@ -33,5 +33,5 @@ Software developer from Denmark with a passion for platform engineering. I mainl
 | Project | Description |
 | --- | --- |
 | [ytt-schema-docs](https://github.com/Baune8D/ytt-schema-docs) | Generate a static HTML documentation site from any [ytt](https://carvel.dev/ytt/) data values schema. |
-| [packer-windows-desktop](https://github.com/Baune8D/packer-windows-desktop) | Build a basic Windows desktop image for use with Vagrant. |
-| [vagrant-vs-devbox](https://github.com/Baune8D/vagrant-vs-devbox) | A complete Visual Studio development environment using Vagrant. |
+| [packer-windows-desktop](https://github.com/Baune8D/packer-windows-desktop) | Packer template that builds Windows 11 desktop Vagrant boxes for Hyper-V, Parallels, VirtualBox and VMware. |
+| [vagrant-vs-devbox](https://github.com/Baune8D/vagrant-vs-devbox) | Vagrant devbox for .NET and web development on Windows 11: Visual Studio, IIS, .NET, Node.js and more. |
