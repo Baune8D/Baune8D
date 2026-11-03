@@ -20,6 +20,7 @@ Software developer from Denmark with a passion for platform engineering. I mainl
 | --- | --- | --- |
 | [LinqBuilder](https://github.com/Baune8D/LinqBuilder) | Specification pattern for LINQ: reusable, composable query specifications for `IEnumerable`, `IQueryable`, Entity Framework Core and Entity Framework 6. | [![NuGet](https://img.shields.io/nuget/v/LinqBuilder)](https://www.nuget.org/packages/LinqBuilder) |
 | [ExpressionCache](https://github.com/Baune8D/ExpressionCache) | Cache the results of .NET method calls under keys generated from expressions. Includes a provider for `IDistributedCache`. | [![NuGet](https://img.shields.io/nuget/v/ExpressionCache.Core)](https://www.nuget.org/packages/ExpressionCache.Core) |
+| [CliCommander](https://github.com/Baune8D/CliCommander) | Run commands with CliWrap's API while they write to your console. RawCli is a fork of CliWrap's execution without output redirection. | [![NuGet](https://img.shields.io/nuget/v/CliCommander)](https://www.nuget.org/packages/CliCommander) |
 
 ### Claude Code
 
